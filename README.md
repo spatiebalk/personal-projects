@@ -1,2 +1,2 @@
-# Projects (created by Fien Ockers on 27-01-2020)
-Repository for personal exploratory projects.
+# Projects
+Repository for personal exploratory projects for fun or educational purposes.
